@@ -1,0 +1,6 @@
+1,apartament,13 Decembrie,24A,16,Brasov,Fagaras,Romania,2,3,true,true,true,true,true,true,true,true,true,true,true,true,true
+2,apartament,1 Decembrie,5C,1,Brasov,Fagaras,Romania,1,3,true,false,false,false,false,false,false,true,true,true,true,true,true
+3,apartament,Negoiu,25A,14,Brasov,Victoria,Romania,2,1,false,false,false,false,false,false,false,false,false,false,false,false,false
+4,apartament,Negoiu,14A,1,Prahova,Sinaia,Romania,0,1,true,true,true,true,true,true,true,false,false,false,false,false,false
+5,apartament,Ion Creanga,14C,1,Brasov,Sacele,Romania,3,1,true,false,false,true,true,true,true,true,true,false,false,false,false
+6,apartament,1 Decembrie,14B,2,Brasov,Rasnov,Romania,4,1,false,false,false,false,false,false,false,false,false,false,false,false,false
