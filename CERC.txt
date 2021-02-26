@@ -1,0 +1,2 @@
+ ID:1, Centru:(x:4.0,y:5.0), Raza:6.0
+ID:3, Centru:(x:4.0,y:5.0), Raza:6.0
